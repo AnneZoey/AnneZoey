@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnneZoey
+- 👋 Hi, I’m Thomas Nguyen (@AnneZoey)
 - 👀 I’m interested in music, graphic design, animation, and video games
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on IP
