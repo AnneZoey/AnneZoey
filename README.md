@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, graphic design, animation, and video games
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on IP
-- 📫 How to reach me duyanh11092002@gmail.com
+- 📫 Reach me at dnguyen001@berkeley.edu
 
 <!---
 AnneZoey/AnneZoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
