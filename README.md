@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Nguyen (@AnneZoey)
 - 👀 I’m interested in music, graphic design, animation, and video games
-- 🌱 I have experience with Python, Scheme, SQL, Java, and C++
+- 🌱 I have experience with Python, Scheme, SQL, Java, C++, HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on IP
 - 📫 Reach me at dnguyen001@berkeley.edu
 
